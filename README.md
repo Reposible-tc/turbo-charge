@@ -1,17 +1,16 @@
-![reposible-logo-light](https://github.com/user-attachments/assets/9769309b-cad4-4e3a-aba2-b11f00b32d33)
+![reposible-logo-light](https://github.com/user-attachments/assets/9769309b-cad4-4e3a-aba2-b11f00b32d33#gh-dark-mode-only)
 
-![Next.js](https://img.shields.io/badge/Next.js-15+-000?logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
-![Supabase Database](https://img.shields.io/badge/Supabase-Database-green?logo=supabase)
-![Supabase Auth](https://img.shields.io/badge/Supabase-Auth-green?logo=supabase)
-![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet?logo=stripe)
-![Sentry](https://img.shields.io/badge/Sentry-Monitoring-red?logo=sentry)
-![Resend](https://img.shields.io/badge/Resend-Email-9cf?logo=resend)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI-7952B3?logo=openai)
-![shadcn/ui](https://img.shields.io/badge/UI-shadcn%2Fui-111?logo=tailwindcss)
-![next-intl](https://img.shields.io/badge/i18n-next--intl-blue?logo=vercel)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/Shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React-hook-form](https://img.shields.io/badge/React--Hook--Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![next-intl](https://img.shields.io/badge/Next--Intl-blue?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Turbo Charge
 
@@ -68,6 +67,7 @@ The full-stack powerhouse with premium integrations, designed for scalability. I
 - **AI:** [Open-AI](https://platform.openai.com/docs/overview)
 - **UI:** [Shadcn/ui](https://ui.shadcn.com/docs/installation)
 - **Forms:** [React-Hook-Form](https://react-hook-form.com)
+- **Validation:** [Zod](https://zod.dev/)
 - **Themes:** [Next-themes](https://www.npmjs.com/package/next-themes)
 
 ---
@@ -118,7 +118,7 @@ cp .example.env .env
 ```
 
 3. Fill in the required variables in .env
- > If you already know where to find all the environment variables, go ahead and populate them. Otherwise, don't worry — the setup guides below (e.g., for Supabase, Stripe, Sentry, Resend) explain exactly where to obtain each one.
+   > If you already know where to find all the environment variables, go ahead and populate them. Otherwise, don't worry — the setup guides below (e.g., for Supabase, Stripe, Sentry, Resend) explain exactly where to obtain each one.
 
 ## Supabase Setup
 
@@ -286,7 +286,6 @@ yarn dev
 ```
 
 Open http://localhost:3000 in your browser.
-
 
 ## 📄 License
 
