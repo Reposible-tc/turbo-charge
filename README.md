@@ -8,7 +8,9 @@
 ![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
-![next-intl](https://img.shields.io/badge/Next--intl-blue?style=for-the-badge&logo=next-intl&logoColor=white)
+![React-hook-form](https://img.shields.io/badge/React--Hook--Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-%233E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![next-intl](https://img.shields.io/badge/Next--Intl-blue?style=for-the-badge&logo=next.js&logoColor=white)
 
 # Turbo Charge
 
@@ -65,6 +67,7 @@ The full-stack powerhouse with premium integrations, designed for scalability. I
 - **AI:** [Open-AI](https://platform.openai.com/docs/overview)
 - **UI:** [Shadcn/ui](https://ui.shadcn.com/docs/installation)
 - **Forms:** [React-Hook-Form](https://react-hook-form.com)
+- **Validation:** [Zod](https://zod.dev/)
 - **Themes:** [Next-themes](https://www.npmjs.com/package/next-themes)
 
 ---
@@ -115,7 +118,7 @@ cp .example.env .env
 ```
 
 3. Fill in the required variables in .env
- > If you already know where to find all the environment variables, go ahead and populate them. Otherwise, don't worry — the setup guides below (e.g., for Supabase, Stripe, Sentry, Resend) explain exactly where to obtain each one.
+   > If you already know where to find all the environment variables, go ahead and populate them. Otherwise, don't worry — the setup guides below (e.g., for Supabase, Stripe, Sentry, Resend) explain exactly where to obtain each one.
 
 ## Supabase Setup
 
@@ -283,7 +286,6 @@ yarn dev
 ```
 
 Open http://localhost:3000 in your browser.
-
 
 ## 📄 License
 
